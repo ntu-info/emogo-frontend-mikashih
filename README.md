@@ -14,7 +14,7 @@
 | **Expo 專案頁面** | [https://expo.dev/@mikashih0911/my-app-1](https://expo.dev/@mikashih0911/my-app-1) |
 | **專案 ID** | `684f33f2-f691-49c2-a0cf-aa12ded44b34` |
 | **Development Build URI** | `exp+my-app-1://expo-development-client` |
-| **Android APK 下載** | [EAS Build 頁面](https://expo.dev/accounts/mikashih0911/projects/my-app-1/builds) |
+| **Android APK 下載** | [EAS Build 頁面](https://expo.dev/accounts/mikashih0911/projects/my-app-1/builds/21918372-42a3-499a-b221-57127087f467) |
 
 ---
 
